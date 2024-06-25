@@ -1,5 +1,5 @@
 # Horizontal-well
-Matlab codes supporting "Water budget components for horizontal well adjacent to a stream in a leaky aquifer: Analytical study
+Matlab codes supporting "Water budget components for horizontal well adjacent to a stream in a leaky aquifer: Analytical study"
 
 Developer: Ali Mahdavi, Department of Civil Engineering, Arak University, Arak, Iran, Email: a-mahdavi@araku.ac.ir
 
